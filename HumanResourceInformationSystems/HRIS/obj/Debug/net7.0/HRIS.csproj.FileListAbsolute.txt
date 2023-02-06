@@ -1,0 +1,662 @@
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\appsettings.Development.json
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\appsettings.json
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.exe
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.deps.json
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.runtimeconfig.json
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.pdb
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Azure.Core.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Azure.Identity.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Humanizer.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.CodeDom.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Memory.Data.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.AssemblyReference.cache
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.GeneratedMSBuildEditorConfig.editorconfig
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.AssemblyInfoInputs.cache
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.AssemblyInfo.cs
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.CoreCompileInputs.cache
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.MvcApplicationPartsAssemblyInfo.cs
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.MvcApplicationPartsAssemblyInfo.cache
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.HRIS.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.build.HRIS.props
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HRIS.props
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HRIS.props
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.build.json
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.development.json
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\scopedcss\bundle\HRIS.styles.css
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.CopyComplete
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\refint\HRIS.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.pdb
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.genruntimeconfig.cache
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\New folder\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\ref\HRIS.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\appsettings.Development.json
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\appsettings.json
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.exe
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.deps.json
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.runtimeconfig.json
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.pdb
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Azure.Core.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Azure.Identity.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Humanizer.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.CodeDom.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Memory.Data.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISDatabaseContext.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericRepositories.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISDatabaseContext.pdb
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericRepositories.pdb
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.AssemblyReference.cache
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.GeneratedMSBuildEditorConfig.editorconfig
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.AssemblyInfoInputs.cache
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.AssemblyInfo.cs
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.CoreCompileInputs.cache
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.MvcApplicationPartsAssemblyInfo.cs
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.MvcApplicationPartsAssemblyInfo.cache
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.HRIS.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.build.HRIS.props
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HRIS.props
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HRIS.props
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.build.json
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.development.json
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\scopedcss\bundle\HRIS.styles.css
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.CopyComplete
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\refint\HRIS.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.pdb
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.genruntimeconfig.cache
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\ref\HRIS.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\appsettings.Development.json
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\appsettings.json
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.exe
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.deps.json
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.runtimeconfig.json
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.pdb
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Azure.Core.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Azure.Identity.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Humanizer.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.CodeDom.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Memory.Data.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISDatabaseContext.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericRepositories.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISDatabaseContext.pdb
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericRepositories.pdb
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.AssemblyReference.cache
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.GeneratedMSBuildEditorConfig.editorconfig
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.AssemblyInfoInputs.cache
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.AssemblyInfo.cs
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.CoreCompileInputs.cache
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.MvcApplicationPartsAssemblyInfo.cs
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.MvcApplicationPartsAssemblyInfo.cache
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.HRIS.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.build.HRIS.props
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HRIS.props
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HRIS.props
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.build.json
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.development.json
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\scopedcss\bundle\HRIS.styles.css
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.CopyComplete
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\refint\HRIS.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.pdb
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.genruntimeconfig.cache
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\ref\HRIS.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\appsettings.Development.json
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\appsettings.json
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.exe
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.deps.json
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.runtimeconfig.json
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.pdb
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Azure.Core.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Azure.Identity.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Humanizer.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.CodeDom.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Memory.Data.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISDatabaseContext.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericRepositories.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISDatabaseContext.pdb
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericRepositories.pdb
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.AssemblyReference.cache
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.GeneratedMSBuildEditorConfig.editorconfig
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.AssemblyInfoInputs.cache
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.AssemblyInfo.cs
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.CoreCompileInputs.cache
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.MvcApplicationPartsAssemblyInfo.cs
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.MvcApplicationPartsAssemblyInfo.cache
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.HRIS.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.build.HRIS.props
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HRIS.props
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HRIS.props
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.build.json
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.development.json
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\scopedcss\bundle\HRIS.styles.css
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.CopyComplete
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\refint\HRIS.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.pdb
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.genruntimeconfig.cache
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\ref\HRIS.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\appsettings.json
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.exe
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.deps.json
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.runtimeconfig.json
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.pdb
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Humanizer.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISDatabaseContext.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISdatabaseModels.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericInterfaces.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericRepositories.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISDatabaseContext.pdb
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericRepositories.pdb
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISdatabaseModels.pdb
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.AssemblyInfo.cs
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.HRIS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.build.HRIS.props
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HRIS.props
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HRIS.props
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\scopedcss\bundle\HRIS.styles.css
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.CopyComplete
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\refint\HRIS.dll
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.pdb
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.genruntimeconfig.cache
+C:\Users\User\Desktop\Final Project\31 Janusary\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\ref\HRIS.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\appsettings.json
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.exe
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.deps.json
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.runtimeconfig.json
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.pdb
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISDatabaseContext.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISdatabaseModels.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericInterfaces.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericRepositories.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISDatabaseContext.pdb
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericRepositories.pdb
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISdatabaseModels.pdb
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.AssemblyReference.cache
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.AssemblyInfoInputs.cache
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.AssemblyInfo.cs
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.CoreCompileInputs.cache
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.HRIS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.build.HRIS.props
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HRIS.props
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HRIS.props
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\scopedcss\bundle\HRIS.styles.css
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.CopyComplete
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\refint\HRIS.dll
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.pdb
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.genruntimeconfig.cache
+C:\Users\Mamun\Desktop\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\ref\HRIS.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.AssemblyReference.cache
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.GeneratedMSBuildEditorConfig.editorconfig
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.AssemblyInfoInputs.cache
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.AssemblyInfo.cs
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.CoreCompileInputs.cache
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.MvcApplicationPartsAssemblyInfo.cache
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\appsettings.Development.json
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\appsettings.json
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.exe
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.deps.json
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.runtimeconfig.json
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.pdb
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Azure.Core.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Azure.Identity.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Humanizer.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.CodeDom.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Memory.Data.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISDatabaseContext.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISdatabaseModels.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericInterfaces.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericRepositories.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISDatabaseContext.pdb
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericRepositories.pdb
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISdatabaseModels.pdb
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.HRIS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.build.HRIS.props
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HRIS.props
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HRIS.props
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.pack.json
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.build.json
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.development.json
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\scopedcss\bundle\HRIS.styles.css
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.CopyComplete
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\refint\HRIS.dll
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.pdb
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.genruntimeconfig.cache
+D:\AA_NewProject\HumanResourceInformationSystems\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\ref\HRIS.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\appsettings.Development.json
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\appsettings.json
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.exe
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.deps.json
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.runtimeconfig.json
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRIS.pdb
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Azure.Core.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Azure.Identity.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Humanizer.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.CodeDom.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Memory.Data.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISDatabaseContext.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISdatabaseModels.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericInterfaces.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericRepositories.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISDatabaseContext.pdb
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericRepositories.pdb
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\bin\Debug\net7.0\HRISdatabaseModels.pdb
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.AssemblyReference.cache
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.GeneratedMSBuildEditorConfig.editorconfig
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.AssemblyInfoInputs.cache
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.AssemblyInfo.cs
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.CoreCompileInputs.cache
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.MvcApplicationPartsAssemblyInfo.cache
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.HRIS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.build.HRIS.props
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HRIS.props
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HRIS.props
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.pack.json
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.build.json
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\staticwebassets.development.json
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\scopedcss\bundle\HRIS.styles.css
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.csproj.CopyComplete
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\refint\HRIS.dll
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.pdb
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\HRIS.genruntimeconfig.cache
+D:\A_Project_Repo\HumanResourceInformationSystems_lastUpdated\HumanResourceInformationSystems\HRIS\obj\Debug\net7.0\ref\HRIS.dll

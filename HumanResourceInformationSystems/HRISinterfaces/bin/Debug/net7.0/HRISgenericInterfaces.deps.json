@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HRISgenericInterfaces/1.0.0": {
+        "dependencies": {
+          "HRISdatabaseModels": "1.0.0"
+        },
+        "runtime": {
+          "HRISgenericInterfaces.dll": {}
+        }
+      },
+      "HRISdatabaseModels/1.0.0": {
+        "runtime": {
+          "HRISdatabaseModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HRISgenericInterfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HRISdatabaseModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
