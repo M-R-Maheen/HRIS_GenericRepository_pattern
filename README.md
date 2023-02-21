@@ -1,1 +1,2 @@
 # HRIS_GenericRepository_pattern
+# GenericRepository_pattern
